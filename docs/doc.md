@@ -1,3 +1,3 @@
 # Documentation
 
-This are the docs for the test repo!
+This is the doc for the test repo!
