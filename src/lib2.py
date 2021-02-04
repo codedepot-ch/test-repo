@@ -1,4 +1,1 @@
-for i in range(3):
-  print("number: " + i)
-
-print("we are done")
+New contents for lib2.py!
